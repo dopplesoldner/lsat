@@ -1,0 +1,31 @@
+1.1,LR Main point
+1.2,LR Method of argument
+1.3,LR Inference
+1.4,LR Weaken
+1.5,LR Flow
+1.6,LR Paradox
+1.7,LR Parallel Reasoning
+1.8,LR Assumption
+1.9,LR Principle
+1.10,LR Role of a statement
+1.11,LR Strengthen
+1.12,LR Point at issue
+1.13,LR Miscellaneous
+2.1,AR Acceptability
+2.2,AR If/Could be true
+2.3,AR Completely determine 
+2.4,AR If/must be true
+2.5,AR Min/max
+2.6,AR Could be true
+2.7,AR Must be false
+2.8,AR Rule substitution
+2.9,AR Must be true
+2.10,AR Partial acceptability
+2.11,AR If clause/complete and accurate list
+2.12,AR Miscellaneous
+3.1,RC Global
+3.2,RC Logic Function
+3.3,RC Logic Reasoning
+3.4,RC Detail
+3.5,RC Inference
+3.6,RC Miscellaneous
