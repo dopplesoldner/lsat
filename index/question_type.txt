@@ -2,7 +2,7 @@
 1.2,LR Method of argument
 1.3,LR Inference
 1.4,LR Weaken
-1.5,LR Flow
+1.5,LR Flaw
 1.6,LR Paradox
 1.7,LR Parallel Reasoning
 1.8,LR Assumption
